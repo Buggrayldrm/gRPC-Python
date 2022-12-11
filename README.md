@@ -1,6 +1,2 @@
 # gRPC-Python
-#Python
-\n
-#Docker
-\n
-#Bash
+#Python Docker Bash
